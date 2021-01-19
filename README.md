@@ -1,3 +1,2 @@
-# KinoBootstrap
-
-Киносайт написанный с использованием HTML5 и фреймворка Bootstrap 3
+# [Mesto](https://vlad-maker.github.io/KinoBootstrap/)  
+Киносайт создан с использованием HTML5 и CSS фреймворка Bootstrap 3
